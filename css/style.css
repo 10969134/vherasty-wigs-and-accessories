@@ -1,0 +1,92 @@
+body{
+    font-family:"sacramento"cursive;
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    color: rgb(4, 85, 58);
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color: rgb(4, 85, 58);
+}
+h3{
+    color: rgb(4, 85, 58);
+}
+.top-container{
+    background-color: white;
+    padding-top: 50px;
+    position: relative;
+}
+
+.middle-container{
+    background-color: rgb(246, 246, 248);
+    text-align: center;
+}
+.bottom-container{
+    background-color: white;
+
+}
+.vera{
+    background-color:rgb(233, 232, 230);
+    height: 120px;
+    width: 120px;
+    border-radius: 50px;
+}
+
+.wig1{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 25px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+ .vee
+{
+    border-radius: 70px;
+    height: 300px;
+    width:300px;
+}
+
+.V2
+{
+    max-height:30%;
+    max-width: 250px;
+    border-radius: 100px;
+    
+}
+.wig2{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    float: right;
+    margin-left: 25px;
+}
+.top-mountain{
+    height: 3opx;
+    width: 50px;
+    position: absolute;
+    padding-right: 100px;
+    right: 30px;
+
+}
+.contact-me {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top,#11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top,#11cdd4, #11999e);
+    background-image: -o-linear-gradient(top,#11cdd4,#11999e);
+}
+
